@@ -21,6 +21,8 @@ Power BI – for interactive dashboarding and visualizations.
 Excel / SQL – for data cleaning and preparation.
 DAX – for calculated measures and KPIs.
 
+CLICK ON THE LINK  : https://app.powerbi.com/view?r=eyJrIjoiZTI0NjUzMGEtYmUzMS00MTk5LWFlNjctNzUxYWQ2MGJmMDhiIiwidCI6IjdkYTFhMmQ5LWM3M2MtNDVjZS05ZmI1LTNlMTA3ZjNhZDA4ZCJ9
+
 **2) Sales Analysis
 **   
 📌 Project Overview
@@ -39,3 +41,5 @@ Provide actionable insights for sales and marketing teams.
 
 Tableau – for interactive visualizations and dashboard building.
 Excel / CSV – as the data source for analysis.
+
+CLICK ON THE LINK : https://public.tableau.com/app/profile/chirag.jain8641/viz/Chirag_Jain/Dashboard1?publish=yes&showOnboarding=true
