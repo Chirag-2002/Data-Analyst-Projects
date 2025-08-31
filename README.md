@@ -3,6 +3,7 @@ This repository contains my data analysis projects where I use tools like Power 
 
 1) **Analysis for Marketing Team From Food & Beverage Industry
 **
+
 📌 Project Overview
 
 This project focuses on analyzing customer and sales data from the Food & Beverage industry to provide insights for the Marketing team.
